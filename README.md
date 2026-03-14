@@ -12,8 +12,8 @@ Aunque en esta primera práctica la salida del programa va a realizarse exclusiv
 
 Para que este problema se pueda reducir a una complejidad adecuada vamos a apoyarnos en los siguientes elementos: 
 
-- Usaremos la librería para que se encargue de todos los cálculos astronómicos que nos permitan conocer con precisión la posición del sol y la luna en un momento y posición determinado. 
+- Usaremos la librería ephem para que se encargue de todos los cálculos astronómicos que nos permitan conocer con precisión la posición del sol y la luna en un momento y posición determinado. 
 
-- Usaremos la librería para poder generar un mapa sencillo (solo distinguiremos entre mar y tierra) de una zona del planeta.
+- Usaremos la librería globe_land_mask para poder generar un mapa sencillo (solo distinguiremos entre mar y tierra) de una zona del planeta.
 
 - Para los “gráficos” utilizaremos caracteres Unicode y códigos ANSI para asignarles color de fondo y primer plano. 
